@@ -1,6 +1,6 @@
 {
     "Name": "Milky-Vodka",
-    "License": "",
+    "License": "CC0",
     "Authors": [
         "Yeshurun, Y.",
         "Nguyen, M.",
@@ -12,6 +12,6 @@
     "ReferencesAndLinks": [
         "http://www.pnas.org/content/114/35/9475.short"
     ],
-    "DatasetDOI": "",
+    "DatasetDOI": "10.18112/openneuro.ds001131.v1.0.0",
     "BIDSVersion": "1.0.2"
 }
